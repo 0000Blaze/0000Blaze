@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about AI
 - ⚡ Fun fact: I love to travel and weight lifting
-
+<!--
 ### Connect with me:
 
 
 ### Languages and Tools:
-
+-->
 <br />
 <br />
 
