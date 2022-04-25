@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ## I'm a Student and Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about AI
-- ⚡ Fun fact: I love to travel and weight lifting
+- 🥅 2022 Goals: Learn more about AI and data analysis
+- ⚡ Fun fact: I am currently learning to swim
 <!--
 ### Connect with me:
 
