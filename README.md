@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## I'm a Student and Developer!!
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about AI and data analysis
-- ⚡ Fun fact: I am currently learning to swim
+- 🌱 I’m currently learning power BI and Tableau 🤣
+- 🥅 2022 Goals: Learn more about data science
+- ⚡ Fun fact: I am currently focusing on bodybuilding
 <!--
 ### Connect with me:
 
