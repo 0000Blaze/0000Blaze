@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on fun projects that can be related to anything
 - 🥅 2022 Goals: Learn more about data science
 - 📫 How to reach me: At any of my social links or email listed at rohanchhetry.com.np
-- 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I am currently focusing on bodybuilding
 <!--
 ### Connect with me:
