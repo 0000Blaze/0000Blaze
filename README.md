@@ -64,11 +64,11 @@ Here are some ideas to get you started:
 </p>
 <br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0000Blaze&show_icons=true&locale=en" alt="0000Blaze" /></p>
--->
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0000Blaze&" alt="0000Blaze" /></p>
 <br />
 <br />
-
+-->
 [website]: https://rohanchhetry.com.np
 [twitter]: https://twitter.com/rohanchhetry9
 [youtube]: https://www.youtube.com/channel/UChsgwLNqdFtZmZ38xVgcwqQ
