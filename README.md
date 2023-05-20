@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ## I'm a Student and Developer!!
 
-- 🔭 I’m currently working at LIS Nepal (Yomari) 
-- 🌱 I’m currently learning data science and visualization 
+- 🔭 I’m currently working at Genese Solution as a Data Engineer 
+- 🌱 I’m currently working on data science projects and mobile application project in react native 
 - 👯 I’m looking to collaborate on fun projects that can be related to anything
 - 🥅 2023 Goals: Integrate my knowledge and work on awesome projects
 - 📫 How to reach me: At any of my social links or email listed at rohanchhetry.com.np
