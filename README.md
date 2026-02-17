@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- - 🔭 I’m currently working at Genese Solution as a Data Engineer --> 
 - 🌱 I’m currently working on starting a new life in Sydney 🦘
 - 👯 I’m looking to collaborate on fun projects 
-- 🥅 2024 Goals: Live life with no regrets ✌️
+- 🥅 2026 Goals: Live life with no regrets ✌️
 - 📫 How to reach me: At any of my social links or email listed at rohanchhetry.com.np
 - ⚡ Fun fact: I am currently focusing on bodybuilding
 <!--
